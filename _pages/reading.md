@@ -1,7 +1,16 @@
 ---
+layout: single
 permalink: /readings/
 title: "Readings"
+author_profile: true
 ---
-[Visual Instruction Tuning](/files/llava.pdf)
 
-[Improved Baselines with Visual Instruction Tuning](/files/llava_improved.pdf)
+{% include base_path %}
+
+Paper notes and summaries on topics I'm exploring.
+
+{% assign readings = site.posts | where_exp: "post", "post.categories contains 'readings'" %}
+
+{% for post in readings %}
+  {% include archive-single.html %}
+{% endfor %}
