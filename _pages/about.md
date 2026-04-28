@@ -13,6 +13,7 @@ Dr. Xing Di is a Research Scientist at the research unit of [Protagolabs Inc.](h
 
 News
 ======
+* 2024.09: Our paper [Fine-Grained Rebalancing of Datasets for Correct Demographic Classification](https://ieeexplore.ieee.org/abstract/document/10859211) was presented in International Conference on Content-Based Multimedia Indexing (CBMI)
 * 2023.11: Our paper [Transform-Equivariant Consistency Learning for Temporal Sentence Grounding](https://arxiv.org/pdf/2305.04123.pdf) was accepted in ACM Transactions on Multimedia Computing, Communications, and Applications
 * 2023.10: Our paper [ProS: Facial Omni-Representation Learning via Prototype-based Self-Distillation](https://arxiv.org/pdf/2311.01929.pdf) was accepted in WACV 2024
 * 2022.11: Our paper [Hypotheses tree building for one-shot temporal sentence localization](https://arxiv.org/pdf/2301.01871.pdf) was accepted in AAAI 2023
