@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* Fall 2021 - Present: Research Scientist
+* Fall 2021 - Apr 2026: Research Scientist
   * Protagolabs Inc.
   * Duties included: 
     * Leading research projects targeting at popular challenges and high-profile conferences.

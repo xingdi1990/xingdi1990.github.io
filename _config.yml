@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Xing Di (底兴)"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Xing Di"
+description              : &description "Xing Di (底兴) — Generative Models, Biometrics, Video Understanding."
 url                      : https://xingdi1990.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xingdi1990/xingdi1990.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Xing Di"
   avatar           : "xing.jpg"
-  bio              : "Research Scientist, Coffee Lover"
+  bio              : "Taking a Break | Ph.D. JHU 2021 | Coffee Lover"
   location         :
   employer         :
   pubmed           : 
