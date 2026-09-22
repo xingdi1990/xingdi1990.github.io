@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Xing Di is currently taking a break from industry. His research interests include generative models and their applications in biometrics, video understanding, and medical image analysis. He received his Ph.D. degree at Johns Hopkins University in 2021, advised by Prof. [Vishal Patel](https://engineering.jhu.edu/vpatel36/vishal-patel/). He previously worked at [Protagolabs Inc.](https://www.protagolabs.ai/#/) with [Yu Cheng](https://www.linkedin.com/in/chengyu05/), and worked/interned at PAII Inc. and Hikvision N.A. with Dr. [Le Lu](https://www.cs.jhu.edu/~lelu/) and Dr. [Bo Wang](https://vectorinstitute.ai/team/bo-wang/) respectively. He received his M.E. degree at Stevens Institute of Technology in 2015 and his B.E. degree at The University of Electronic Science and Technology of China (Chengdu, China) in 2013.
+Dr. Xing Di is a researcher in generative models and their applications in biometrics, video understanding, and medical image analysis, and is currently seeking opportunities in applied research and engineering. He received his Ph.D. degree at Johns Hopkins University in 2021, advised by Prof. [Vishal Patel](https://engineering.jhu.edu/vpatel36/vishal-patel/). He previously worked as a Research Scientist at [Protagolabs Inc.](https://www.protagolabs.ai/#/) (2021–2026) with [Yu Cheng](https://www.linkedin.com/in/chengyu05/), and worked/interned at PAII Inc. and Hikvision N.A. with Dr. [Le Lu](https://www.cs.jhu.edu/~lelu/) and Dr. [Bo Wang](https://vectorinstitute.ai/team/bo-wang/) respectively. He received his M.E. degree at Stevens Institute of Technology in 2015 and his B.E. degree at The University of Electronic Science and Technology of China (Chengdu, China) in 2013.
 
 
 News
