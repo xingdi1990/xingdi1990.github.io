@@ -8,11 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Xing Di is a researcher in generative models and their applications in biometrics, video understanding, and medical image analysis, and is currently seeking opportunities in applied research and engineering. He received his Ph.D. degree at Johns Hopkins University in 2021, advised by Prof. [Vishal Patel](https://engineering.jhu.edu/vpatel36/vishal-patel/). He previously worked as a Research Scientist at [Protagolabs Inc.](https://www.protagolabs.ai/#/) (2021–2026) with [Yu Cheng](https://www.linkedin.com/in/chengyu05/), and worked/interned at PAII Inc. and Hikvision N.A. with Dr. [Le Lu](https://www.cs.jhu.edu/~lelu/) and Dr. [Bo Wang](https://vectorinstitute.ai/team/bo-wang/) respectively. He received his M.E. degree at Stevens Institute of Technology in 2015 and his B.E. degree at The University of Electronic Science and Technology of China (Chengdu, China) in 2013.
+Dr. Xing Di is a researcher in biometrics, video understanding, and agentic AI. He received his Ph.D. degree at Johns Hopkins University in 2021, advised by Prof. [Vishal Patel](https://engineering.jhu.edu/vpatel36/vishal-patel/). He previously worked as a Research Scientist at [Protagolabs Inc.](https://www.protagolabs.ai/#/) (2021–2026) with [Yu Cheng](https://www.linkedin.com/in/chengyu05/), and worked/interned at PAII Inc. and Hikvision N.A. with Dr. [Le Lu](https://www.cs.jhu.edu/~lelu/) and Dr. [Bo Wang](https://vectorinstitute.ai/team/bo-wang/) respectively. He received his M.E. degree at Stevens Institute of Technology in 2015 and his B.E. degree at The University of Electronic Science and Technology of China (Chengdu, China) in 2013.
 
 
 News
 ======
+* 2026.10: Obtained the IBM RAG and Agentic AI Professional Certificate (IBM Skills Network, via Coursera) — [View certificate](/files/ibm-rag-agentic-ai.pdf)
 * 2024.09: Our paper [Fine-Grained Rebalancing of Datasets for Correct Demographic Classification](https://ieeexplore.ieee.org/abstract/document/10859211) was presented in International Conference on Content-Based Multimedia Indexing (CBMI)
 * 2023.11: Our paper [Transform-Equivariant Consistency Learning for Temporal Sentence Grounding](https://arxiv.org/pdf/2305.04123.pdf) was accepted in ACM Transactions on Multimedia Computing, Communications, and Applications
 * 2023.10: Our paper [ProS: Facial Omni-Representation Learning via Prototype-based Self-Distillation](https://arxiv.org/pdf/2311.01929.pdf) was accepted in WACV 2024

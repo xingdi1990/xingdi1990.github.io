@@ -36,6 +36,10 @@ Work experience
   * Supervised by: [Vishal M. Patel](https://engineering.jhu.edu/vpatel36/vishal-patel/)
 
 
+Certificates
+======
+* IBM RAG and Agentic AI Professional Certificate, IBM Skills Network (via Coursera), 2026 — [View certificate](/files/ibm-rag-agentic-ai.pdf)
+
 Publications
 ======
   <ul>{% for post in site.publications %}
